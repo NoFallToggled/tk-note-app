@@ -8,3 +8,4 @@ optimized for MacOS not even sure if it works in windows
 **I would be greatful if someone tries in windows and gives me feed back**
 
 Writin by: Taha Dagistanli :)
+
