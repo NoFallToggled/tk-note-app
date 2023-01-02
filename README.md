@@ -1,7 +1,7 @@
 # tk-note-app
 This is a simple Tkinter Note application not useful or something just... idk
 
-Design in apple sytle
+Design with(kinda) SwiftUI 
 
 optimized for MacOS not even sure if it works in windows 
 
